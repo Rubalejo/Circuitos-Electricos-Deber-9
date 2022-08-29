@@ -29,3 +29,6 @@
 **6, BIBLIOGRAFIA**
 
 **RUBRICA**
+
+![image](https://user-images.githubusercontent.com/105680588/187305842-0b759aa2-8e0b-4e4d-a3ba-280798f5fbef.png)
+
