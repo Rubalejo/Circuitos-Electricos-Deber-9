@@ -14,9 +14,18 @@
 
 **2.MARCO TEORICO**
 
-**Capitulo 17**
+**Capitulo 17 - 18**
 
-**Capitulo 18**
+![image](https://user-images.githubusercontent.com/105680588/187322913-4db93965-f65f-4806-926e-b86abae58403.png)
+
+![image](https://user-images.githubusercontent.com/105680588/187322938-019046e6-e0a9-412c-904c-ae80832b1a05.png)
+
+![image](https://user-images.githubusercontent.com/105680588/187322975-3bf4f3b8-8c3f-45f1-bbef-30a2a8c8b3e2.png)
+
+![image](https://user-images.githubusercontent.com/105680588/187323030-66a024ca-8c71-4b9f-886e-31cecc807f64.png)
+
+![image](https://user-images.githubusercontent.com/105680588/187323065-63331a6d-9cad-43f2-9d66-afb7515cf7b4.png)
+
 
 **3. RESOLUCIÓN DE EJERCICIOS**
 
