@@ -8,9 +8,15 @@
 
 **Objetivo General**
 
-* En los Capítulos 17 y 18 del Libro de Floyd 
+* En los Capítulos 17 y 18 del Libro de Floyd nos adentraremos en los temas de Circuitos RLC y Resonancia como tambien Filtros pasivos.
 
 **Objetivo Especifico**
+
+* Determinar la impedancia de un circuito RLC en serie, serie- paralelo.
+
+* Analizar operaciònes de filtros pasaaltas, pasabajas, pasabanda, rechazabanda.
+
+* Realizar los ejercicios propuestos a final de cada capitulo.
 
 **2.MARCO TEORICO**
 
@@ -81,7 +87,11 @@
 
 **4. VIDEO**
 
+https://www.youtube.com/watch?v=vLzxa3RbnJooG0&ab_channel=RubenBustos
+
 **5. CONCLUSIONES**
+
+* Con los jercicios Propuestos en el Libro de Floyd se pudo conocer sus diferentes aplicaciones, conceptos que se pueden realizar y si se obtuvo preguntas realizarlas en la hora clase con el ingeniero encargado.
 
 **6, BIBLIOGRAFIA**
 
