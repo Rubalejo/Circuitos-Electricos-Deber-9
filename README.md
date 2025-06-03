@@ -87,8 +87,6 @@
 
 **4. VIDEO**
 
-https://www.youtube.com/watch?v=vLzxa3RbnJooG0&ab_channel=RubenBustos
-
 **5. CONCLUSIONES**
 
 * Con los ejercicios Propuestos en el Libro de Floyd se pudo conocer sus diferentes aplicaciones, conceptos que se pueden realizar y si se obtuvo preguntas realizarlas en la hora clase con el ingeniero encargado.
